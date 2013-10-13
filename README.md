@@ -1,4 +1,4 @@
-apendoman
+ApendoMan
 =========
 
 ApendoMan
